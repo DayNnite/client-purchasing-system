@@ -1,4 +1,0 @@
--Path
-".gitignore"
--Value@"
-lkfjs
